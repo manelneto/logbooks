@@ -5,6 +5,6 @@ Este projeto foi desenvolvido no âmbito da Unidade Curricular **Fundamentos de 
 * Turno: [L]14
 * Grupo: 01
 * Alunos:
-    - Madalena Ye up202108795
-    - Manuel Ramos Leite Carvalho Neto up202108744
-    - Matilde Isabel da Silva Simões up202108782
+    - Madalena Ye
+    - Manuel Neto
+    - Matilde Simões
